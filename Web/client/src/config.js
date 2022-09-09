@@ -1,0 +1,2 @@
+export const nftAddress="0x219978F8D4C8aA0129d4E16850CD560aA3976C2D";
+export const nftMarketAddress="0x305C66100EC58f098515253bB6C01eFEe2c6Dd4d";
